@@ -20,13 +20,13 @@ Este es un proyecto simple que demuestra cómo crear un chatbot web utilizando N
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/iacodee/node-express-chatbot-app.git
 ```
 
 2. Navega al directorio del proyecto:
 
 ```bash
-cd TU_REPOSITORIO
+cd REPOSITORIO
 ```
 
 3. Instala las dependencias:
